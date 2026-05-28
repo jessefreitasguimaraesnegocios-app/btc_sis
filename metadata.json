@@ -1,0 +1,6 @@
+{
+  "name": "Bitcoin Historical Forensic Explorer",
+  "description": "An advanced blockchain forensic tool focused on Satoshi-era blocks (0-350,000). Features DER signature parsing, ECDSA duplicate R/nonce reuse detection, private key recovery visualizers, wallet multi-input address clustering, and professional-grade security compliance charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
